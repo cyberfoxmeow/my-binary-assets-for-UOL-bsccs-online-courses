@@ -1,0 +1,369 @@
+Complete (draft) reading list
+Hello students, 
+
+Please find below an approximate collection of readings gathered from the AI course.
+
+We are providing this list as it was requested in a webinar. We extracted all the references from readings and PDF slides for the course, so they have some varied formatting. The list does contain some repetitions. We have not fully formatted this yet as we wanted to release it as soon as we could. Later we will re-visit this list and format it properly. We hope you find it useful, even in this draft state.
+
+You do not need to read all of these articles -  this is simply a list of all readings found in the course, including ones we simply used to extract quotes. 
+
+
+------
+
+Clegg, Kester. "An Introduction to Evolution for Computer Scientists." (2008).
+
+Original link:
+
+https://www-users.york.ac.uk/~gt3/Lectures/images/YCS-2008-425.pdf
+
+If that does not work, here is a permalink on archive.org:
+
+https://web.archive.org/web/20210903114951/https://www-users.york.ac.uk/~gt3/Lectures/images/YCS-2008-425.pdf
+Here is the review article covering a wide range of bio-inspired computing topics – search for this article via the Online Library:
+Del Ser, Javier, et al. "Bio-inspired computation: Where we stand and what's next." Swarm and Evolutionary Computation 48 (2019): 220-250.
+Here is an article about British Cybernetics. This is also available via the Online Library:
+
+Pickering, Andrew. "Cybernetics and the mangle:A shby, Beer and Pask." Social studies of science 32.3 (2002): 413-437.
+
+If you want to clarify evolution theory and evolutionary computation in your mind at this point, we recommend that you take a look at the following article:
+
+Clegg, Kester. "An Introduction to Evolution for Computer Scientists." (2008).
+
+Original link:
+
+https://www-users.york.ac.uk/~gt3/Lectures/images/YCS-2008-425.pdf
+
+If that does not work, here is a permalink on archive.org:
+
+https://web.archive.org/web/20210903114951/https://www-users.york.ac.uk/~gt3/Lectures/images/YCS-2008-425.pdf
+
+The pybullet / bullet github repository:
+
+https://github.com/bulletphysics/bullet3
+
+Pybullet quickstart guide (a google doc, also linked from the github page):
+
+https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3
+
+URDF tutorial:
+
+http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch
+
+
+
+------
+
+Lipson, H., & Pollack, J. B. (2000). Automatic design and manufacture of robotic lifeforms. Nature, 406(6799), 974-978. (Available in the Online Library (OL))
+
+J. Hiller and H. Lipson, "Automatic Design and Manufacture of Soft Robots," in IEEE Transactions on Robotics, vol. 28, no. 2, pp. 457-466, April 2012. (OL)
+
+Cheney, N., MacCurdy, R., Clune, J., & Lipson, H. (2014). Unshackling evolution: evolving soft robots with multiple materials and a powerful generative encoding. ACM SIGEVOlution, 7(1), 11-23. (OL)
+
+Shah, D. S., Powers, J. P., Tilton, L. G., Kriegman, S., Bongard, J., & Kramer-Bottiglio, R. (2021). A soft robot that adapts to environments through shape change. Nature Machine Intelligence, 3(1), 51-59.
+
+Lehman, Joel, Jeff Clune, Dusan Misevic, Christoph Adami, Lee Altenberg, Julie Beaulieu, Peter J. Bentley et al. "The surprising creativity of digital evolution: A collection of anecdotes from the evolutionary computation and artificial life research communities." Artificial Life 26, no. 2 (2020): 274-306. (OL)
+
+Miikkulainen, Risto, et al. "Evolving deep neural networks." Artificial intelligence in the age of neural networks and brain computing. Academic Press, 2019. 293-312. (OL in the ProQuest Collection)
+
+J. Petke, S. O. Haraldsson, M. Harman, W. B. Langdon, D. R. White and J. R. Woodward, "Genetic Improvement of Software: A Comprehensive Survey," in IEEE Transactions on Evolutionary Computation, vol. 22, no. 3, pp. 415-432, June 2018. (OL)
+
+Molina, Daniel, Antonio LaTorre, and Francisco Herrera. "An insight into bio-inspired and evolutionary algorithms for global optimization: review, analysis, and lessons learnt over a decade of competitions." Cognitive Computation 10.4 (2018): 517-544.
+
+------
+
+
+Lipson, H., & Pollack, J. B. (2000). Automatic design and manufacture of robotic lifeforms. Nature, 406(6799), 974-978.
+​Here is the Cheney paper about soft body robots:
+Cheney, N., MacCurdy, R., Clune, J., & Lipson, H. (2014). Unshackling evolution: evolving soft robots with multiple materials and a powerful generative encoding. ACM SIGEVOlution, 7(1), 11-23.
+Read the paper and attempt to understand important aspects of the GA such as the encoding scheme and fitness function. 
+
+-----
+
+H​ere is the paper about evolving neural networks: 
+Miikkulainen, Risto, et al. "Evolving deep neural networks." Artificial intelligence in the age of neural networks and brain computing. Academic Press, 2019. 293-312.
+
+----
+
+
+The reading for this week is: 
+King, R.D., Rowland, J., Oliver, S.G., Young, M., Aubrey, W., Byrne E., Liakata, M., Markham, M., Pir, P. Soldatova, L.N., Sparkes, A., Whelan, K.E., Clare, A. (2009) The Automation of Science. Science 324: 85-89. 
+
+Williams, K., Bilsland, E., Sparkes, S et al. Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases. Journal of the Royal Society Inerface (2015). 
+Extance, A. Robot scientist discovers potential malaria drug. Scientific American  (2015). 
+King, R.D., Rowland, J., Oliver, S.G., Young, M., Aubrey, W., Byrne E., Liakata, M., Markham, M., Pir, P. Soldatova, L.N., Sparkes, A., Whelan, K.E., Clare, A. (2009) The Robot Scientist Adam. Computer 42/8: 46-54. This article is available in the Online Library.  ​
+
+Further reading:
+When you have completed this topic, if you would like to read in more depth about any of the content covered, we recommend the following texts. Please note that because these are supplemental readings, we are unable to guarantee they are available in our Online Library. 
+Robotic automation:
+Industrial development of 'Maholo' the biomedical experiment robot driven by industrial robot technology. 
+Ross King: Automating Science using Robot Scientists
+Langley, P. (2019). Scientific discovery, causal explanation, and process model induction. Mind & Society, 18, 43-56. This article is available in the Online Library.
+Pat Langley and Adam Arvay Scientific Discovery, Process Models, and the Social Sciences
+
+Todorovski, L., Dˇzeroski, S., & Kompare, B. (1998). Modeling and prediction of phytoplankton growth with equation discovery. Ecological Modelling, 113, 71-81. This article is available in the Online Library.
+Zutkow L.M., Zhu, J., & Hussam, A. (1990). Automated discovery in a chemistry laboratory. Proceedings of the Eighth National Conference on Artificial Intelligence (pp. 889–894). Boston: AAAI Press.
+A mobile robotic chemist:
+Burger, B., Maffettone, P.M., Gusev, V.V. et al. A mobile robotic chemist. Nature 583, 237–241 (2020). This article is available in the Online Library.
+Meet the socially distant robot scientist - BBC News.
+Steinruecken, C., Smith, E., Janz, D. et al. The Automatic Statistician. Automated Machine Learning (2019) 161-173.
+Kitano, H. Nobel Turing Challenge: creating the engine for scientific discovery NPJ Syst Biol Appl 2021 Jun 18;7(1):29. 
+Roboethics
+https://medcraveonline.com/IRATJ/ethics-in-robotics-and-automation-a-general-view.html
+King, R.D., Schuler Costa, V., Mellingwood, C. & Soldatova, L.N. Automating sciences: Philosophical and social dimensions IEEE Technology and Society Magazine, 37, pp 40-46.
+If these links are broken, please let us know via the Student Portal. 
+
+
+-----
+
+
+Ross King: Automating Science using Robot Scientists
+Langley, P. (2019). Scientific discovery, causal explanation, and process model induction. Mind & Society, 18, 43-56. This article is available in the Online Library.
+Pat Langley and Adam Arvay Scientific Discovery, Process Models, and the Social Sciences
+Todorovski, L., Dˇzeroski, S., & Kompare, B. (1998). Modeling and prediction of phytoplankton growth with equation discovery. Ecological Modelling, 113, 71-81. This article is available in the Online Library.
+Zutkow L.M., Zhu, J., & Hussam, A. (1990). Automated discovery in a chemistry laboratory. Proceedings of the Eighth National Conference on Artificial Intelligence (pp. 889–894). Boston: AAAI Press.
+Williams, K., Bilsland, E., Sparkes, S et al. Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases. Journal of the Royal Society Inerface (2015). 
+Burger, B., Maffettone, P.M., Gusev, V.V. et al. A mobile robotic chemist. Nature 583, 237–241 (2020). This article is available in the Online Library.
+Meet the socially distant robot scientist - BBC News.
+Steinruecken, C., Smith, E., Janz, D. et al. The Automatic Statistician. Automated Machine Learning (2019) 161-173.
+Kitano, H. Nobel Turing Challenge: creating the engine for scientific discovery NPJ Syst Biol Appl 2021 Jun 18;7(1):29. 
+
+-----
+
+Electronic Noses and Tongues in Food Science 2016, Pages 265-273 https://www.sciencedirect.com/science/article/pii/B9780128002438000263
+
+Seminara, L. et al. Active Haptic Perception in Robots: A Review. Front. Neurorobot, 17 July 2019.
+
+----
+
+Kitano, H., M. Asada, Y. Kuniyoshi et al. ‘RoboCup: The Robot World Cup Initiative’, AGENTS '97: Proceedings of the first international conference on Autonomous agents, pp.340–47.
+YouTube: Robot Soccer Goes Big Time.
+Video: Robots playing football. 
+YouTube: Robots playing soccer for Robocup 2019. 
+Silver, D., A. Huang, C. Maddison et al. ‘Mastering the game of Go with deep neural networks and tree search’, Nature 529(484–489) 2016. 
+
+----
+Williams, K., Bilsland, E., Sparkes, S et al. Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases. Journal of the Royal Society Inerface (2015). 
+Soldatova, L.N., Rzhetsky, A. (2011) Representation of research hypotheses. Journal of Biomedical Semantics, 2: S9. Available in the Online Library.
+King, R.D., Rowland, J., Oliver, S.G., Young, M., Aubrey, W., Byrne E., Liakata, M., Markham, M., Pir, P. Soldatova, L.N., Sparkes, A., Whelan, K.E., Clare, A. (2009) The Automation of Science. Science 324: 85-89. 
+
+----
+
+Williams, K., Bilsland, E., Sparkes, S et al. Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases. Journal of the Royal Society Inerface (2015). 
+King, R.D., Rowland, J., Oliver, S.G., Young, M., Aubrey, W., Byrne E., Liakata, M., Markham, M., Pir, P. Soldatova, L.N., Sparkes, A., Whelan, K.E., Clare, A. (2009) The Automation of Science. Science 324: 85-89. 
+
+----
+
+Williams, K., Bilsland, E., Sparkes, S et al. Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases. Journal of the Royal Society Inerface (2015). 
+King, R.D., Rowland, J., Oliver, S.G., Young, M., Aubrey, W., Byrne E., Liakata, M., Markham, M., Pir, P. Soldatova, L.N., Sparkes, A., Whelan, K.E., Clare, A. (2009) The Automation of Science. Science 324: 85-89. 
+
+
+-----
+
+
+
+Anthony Coutant, Katherine Roper, Daniel Trejo-Banos, Dominique Bouthinon, Martin Carpenter, Jacek Grzebyta, Guillaume Santini, Henry Soldano, Mohamed Elati, Jan Ramon, Céline Rouveirol, Larisa N Soldatova, Ross D King (2019) Closed-loop cycles of experiment design, execution, and learning accelerate systems biology model development in yeast. PNAS 116 (36) 18142-18147. Available in the Online Library. 
+
+
+Read the following article and pay particular attention to how meta-learning has been implemented:
+
+Olier I, Sadawi N, Bickerton GR, Vanschoren J, Grosan C, Soldatova L, King RD (2018) Meta-QSAR: a large-scale application of meta-learning to drug design and discovery. 
+Machine Learning 107/1, pp.285-311. 
+
+Lecture by Dr Larisa Soldatova about meta-qsar learning.
+
+
+-----
+
+Excellent starter article covering lots of the work from the 1950s to 2000. We recommend that you at least scan through this:
+
+Schaeffer, J. 'A gamut of games', AI Magazine 22(3) 2001, pp.29–29.
+
+This article is available in the Online Library. 
+
+The rest of these readings are optional – follow your interests! Please note that because these are supplemental readings, we are unable to guarantee they are available in our Online Library. 
+
+Shannon's chess playing program:
+
+Shannon, C. 'Programming a computer for playing chess', Philosophical Magazine 41(4) 1950, pp.256–75.
+
+
+
+1952: Checkers/drafts:
+
+Strachey, C. 'Logical or non-mathematical programmes' in: Proceedings of the Association for Computing Machinery Meeting (New York: Association of Computing Machinery, 1952) pp.46–49. This item is available in the Online Library ACM Database.
+
+1979: Backgammon:
+
+Berliner, H. 'Backgammon computer program beats world champion', Artificial Intelligence 14(2) 1980, pp.205–20. 
+
+
+
+A detailed Wikipedia article: Computers vs. computers – the Computer Olympiad. 
+
+1992: Drafts:
+
+Schaeffer, J. et al. 'A world championship caliber checkers program', Artificial Intelligence 53:2–3 1992, pp.273–89. 
+
+
+
+1997: Deep Blue chess:
+
+Campbell, M.A., J. Hoane Jr and Feng-hsiung Hsu 'Deep blue', Artificial Intelligence 134(1–2) 2002, pp.57–83. This item is available in the Online Library.
+
+2002: Scrabble:
+
+Sheppard, B. 'World-championship-caliber Scrabble', Artificial Intelligence 134(1–2) 2002, pp.241–75. This item is available in the Online Library.
+
+2013: The Mario AI competition:
+
+Togelius, J. et al. 'The Mario AI championship 2009–2012', AI Magazine 34(3) 2013, pp.89–92. This item is available in the Online Library.
+
+2015: Atari:
+
+Mnih, V. et al. 'Human-level control through deep reinforcement learning', Nature 518(7540) 2015, pp.529–33. 
+
+2016: Go: 
+
+Silver, D. et al. 'Mastering the game of go without human knowledge', Nature 550(7676) 2017, pp.354–59. This item is available in the Online Library.
+
+2018: Poker:
+
+Brown, N. and T. Sandholm 'Superhuman AI for heads-up no-limit poker: Libratus beats top professionals', Science 359(6374) 2018, pp.418–24. This item is available in the Online Library.
+
+2019: Dota II:
+
+Raiman, J., S. Zhang and F. Wolski 'Long-term planning and situational awareness in OpenAI five', arXiv preprint arXiv:1912.06721 (2019). 
+
+Atari in 2020: 
+
+Badia, A.P. et al. 'Agent57: Outperforming the atari human benchmark', International Conference on Machine Learning. PMLR, 2020.
+
+-----
+
+
+
+Here is a link to an early version of the DQN paper which is open access:
+
+Mnih, Volodymyr, et al. 'Playing atari with deep reinforcement learning.' arXiv preprint arXiv:1312.5602 (2013).
+
+The Nature letters version can be accessed via the Online Library:
+
+Mnih, Volodymyr, et al. 'Human-level control through deep reinforcement learning.' Nature 518.7540 (2015): 529-533.
+
+The Markov Decision Process toolbox contains several implementations of algorithms to approximate the value function in MDPs.
+
+----
+
+Here are the slides for this week:
+
+Analysis of Alphastar:
+
+Arulkumaran, K., A. Cully and J. Togelius 'Alphastar: An evolutionary computation perspective', Proceedings of the Genetic and Evolutionary Computation Conference Companion, 2019. (Available in the Online Library)
+
+Reflective piece about the Mario AI competition:
+
+Togelius, J. et al. 'The Mario AI championship 2009–2012', AI Magazine 34(3) 2013, pp.89–92. (Available in the Online Library)
+
+The six dimensions of fairness in human/AI games competitions:
+
+Canaan, M., C. Salge, J. Togelius and A. Nealen 'Leveling the playing field-fairness in ai versus human game benchmarks', arXiv preprint arXiv:1903.07008, 2019. (Available in the Online Library)
+
+Rainbow Atari player: 
+
+Hessel, M. et al. 'Rainbow: combining improvements in deep reinforcement learning', Thirty-second AAAI Conference on Artificial Intelligence, 2018.
+
+DreamerV2 Atari player (good referencess in this paper):
+
+Hafner, D. et al. 'Mastering atari with discrete world models', arXiv preprint arXiv:2010.02193, 2020.
+
+R2D2 Atari player: 
+
+Kapturowski, S. et al. 'Recurrent experience replay in distributed reinforcement learning', International Conference on Learning Representations, 2018.
+
+Agent57 Atari player: 
+
+Badia, A.P. et al. 'Agent57: Outperforming the atari human benchmark', International Conference on Machine Learning, PMLR, 2020.
+
+If these links are broken, please let us know via the Student Portal. 
+
+
+----
+
+Still, Arthur, and Mark d'Inverno. "A history of creativity for future AI
+research." Proceedings of the 7th Computational Creativity
+Conference (ICCC 2016). Universite Pierre et Marie Curie, 2016.
+
+Abra, Jock. "Skinner on creativity: A critical
+commentary." Leonardo 21.4 (1988): 407-412.
+
+Welle-Strand, Anne, and Arild Tjeldvoll. "Creativity,
+curricula and paradigms." Scandinavian Journal of
+Educational Research 47.3 (2003): 359-372.
+
+Mead, G. 1964. Selected Writings. Chicago:
+University of Chicago Press.
+
+Boden, Margaret A. "Computer models of creativity." AI
+Magazine 30.3 (2009): 23-23.
+
+Jordanous, Anna. "Four PPPPerspectives on computational
+creativity in theory and in practice." Connection
+
+Still, Arthur, and Mark d'Inverno. "A history of creativity for future AI
+research." Proceedings of the 7th Computational Creativity
+Conference (ICCC 2016). Universite Pierre et Marie Curie, 2016.
+
+Boden, Margaret A. "Computer models of creativity." AI
+Magazine 30.3 (2009): 23-23.
+
+Jordanous, Anna. "Four PPPPerspectives on
+computational creativity in theory and in practice."
+Connection Science 28.2 (2016): 194-216.
+
+Jordanous, Anna. "A standardised procedure for
+evaluating creative systems: Computational creativity
+evaluation based on what it is to be creative."
+Cognitive Computation 4.3 (2012): 246-279.
+
+Boden, Margaret A. "Computer models of creativity." AI
+Magazine 30.3 (2009): 23-23.
+
+Colton, Simon. "Creativity Versus the Perception of
+Creativity in Computational Systems." AAAI spring
+symposium: creative intelligent systems. Vol. 8. 2008.
+
+atar, Kıvanç, and Philippe Pasquier. "Musical agents: A
+typology and state of the art towards musical metacreation."
+Journal of New Music Research 48.1 (2019): 56-105.
+
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L.,Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need.
+In Advances in neural information processing systems (pp. 5998- 6008).
+
+Chollet, F, Deep learning with Python second edition, Manning
+2021, chapter 11
+
+
+
+adford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I.
+(2019). Language models are unsupervised multitask learners.
+https://cdn.openai.com/better-language-models/
+language_models_are_unsupervised_multitask_learners.pdf
+
+Briot, J. P., & Pachet, F. (2020). Deep learning for
+music generation: challenges and directions.
+Neural Computing and Applications, 32(4), 981-
+993.
+
+Rebecca Fiebrink and Baptiste Caramiaux. The machine learning algorithm as
+creative musical
+tool, November 2016. arXiv:1611.00379v1
+
+Roberts, A., Engel, J., Raffel, C., Hawthorne, C., & Eck, D. (2018, July). A hierarchical latent vector model for learning long-term structure in music. In -International conference on machine learning (pp. 4364-4373). PMLR.
+
+Liu, J., Li, C., Ren, Y., Chen, F., Liu, P., & Zhao, Z. (2021).
+Diffsinger: Diffusion acoustic model for singing voice
+synthesis. arXiv preprint arXiv:2105.02446.
+
+Kong, J., Kim, J., & Bae, J. (2020). Hifi-gan: Generative
+adversarial networks for efficient and high fidelity speech
+synthesis. arXiv preprint arXiv:2010.05646.
